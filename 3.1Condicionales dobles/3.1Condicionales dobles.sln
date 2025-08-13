@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1Condicionales dobles", "3.1Condicionales dobles.csproj", "{239EDB2E-34D8-4659-8F01-ECE342D74666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239EDB2E-34D8-4659-8F01-ECE342D74666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239EDB2E-34D8-4659-8F01-ECE342D74666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239EDB2E-34D8-4659-8F01-ECE342D74666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239EDB2E-34D8-4659-8F01-ECE342D74666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188F8B8F-E296-4BAF-B0BC-2427CFDFC844}
+	EndGlobalSection
+EndGlobal
