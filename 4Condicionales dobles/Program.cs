@@ -1,4 +1,5 @@
 ﻿using System.Net;
+using System.Numerics;
 
 namespace _3._1Condicionales_dobles
 {
@@ -55,7 +56,7 @@ namespace _3._1Condicionales_dobles
 
 
             /*Crear un algoritmo que permita ingresar dos números, si el primer número es mayor al segundo número informar su suma y diferencia,
-            en caso contrario informar el producto y la división del primer número respecto al segundo número. */
+            en caso contrario informar el producto y la división del primer número respecto al segundo número. 
 
             int num1 = 0;
             int num2 = 0;
@@ -76,6 +77,35 @@ namespace _3._1Condicionales_dobles
             {
                 Console.WriteLine($"El producto es {num1*num2} y la división es {num1/num2}");
             }
+
+            Un cliente se hospeda varias noches en una hostería, el precio por noche es de 200 dólares.
+            Si el usuario se queda más de 3 noches se le aplica un porcentaje de descuento del 17 % 
+            y si no se aplica un porcentaje de descuento del 2 %.
+            Mostrar un mensaje con el monto total que debe pagar el cliente,
+            sabiendo que el usuario indica cuántas noches se va a quedar en la hostería.*/
+
+            int noches = 0;
+            double precioNoche = 200;
+            double descuento = 0;
+
+            Console.WriteLine("Ingrese el número de noches");
+
+            noches = Int32.Parse(Console.ReadLine());
+
+            if (noches>3)
+            {
+                descuento = 0.17;
+            }
+
+            else
+            {
+                descuento = 0.02;
+            }
+
+            double total = (precioNoche * noches) * (1 - descuento);
+
+            Console.WriteLine($"El total a pagar es {total}");
+
         }
     }
     
