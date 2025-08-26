@@ -55,7 +55,7 @@ namespace _6.CondicionalMultipleTerciario
                     Console.WriteLine($"Hoy es domingo, descuento: {descuento}, valor a pagar: {valorCompra - descuento}");
                     break;
                 default:
-                    Console.WriteLine($"Debe ingresar un valor válido. te crees muy gracioso? hijo de tu puta madre");
+                    Console.WriteLine($"Debe ingresar un valor válido. te crees muy gracioso?");
                     break;
 
             Diseñar un algoritmo que permita crear una calculadora básica capaz de realizar operaciones aritméticas
