@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
 using System.Reflection.Emit;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
@@ -89,24 +90,69 @@ namespace Taller_condicionales
              En caso contrario, se debe mostrar un mensaje de error “No me puedo mover en otra
             dirección” */
 
-            char Dirección = ' ';
-           
-            Console.WriteLine("Ingrese la dirección de movimiento  i:izquierda   d:derecha");
-            Dirección = Convert.ToChar(Console.ReadLine());
+            /* char Dirección = ' ';
 
-            switch (Dirección)
+             Console.WriteLine("Ingrese la dirección de movimiento  i:izquierda   d:derecha");
+             Dirección = Convert.ToChar(Console.ReadLine());
+
+             switch (Dirección)
+             {
+                 case 'i':
+                     Console.WriteLine("El personaje se mueve hacia la izquierda");
+                     break;
+                 case 'd':
+                     Console.WriteLine("El personaje se mueve hacia la derecha");
+                     break;
+                 default:
+                     Console.WriteLine("No me puedo mover en otra dirección");
+                     break;
+             }*/
+
+            /*El personaje de un juego, puede realizar diferentes acciones dependiendo del carácter que
+            el usuario ingrese, y de la cantidad de vidas que posee. Crear un programa que permita:
+             Generar un número aleatorio entre 0 y 5 para simular el número de vidas del personaje.
+            (Función Random)
+             Si el número de vidas es mayor a 0, el personaje puede realizar acciones en el juego. En
+            caso contrario escribir el mensaje “el personaje no posee vidas, y no puede realizar
+            ninguna acción”.
+             Si el personaje puede realizar acciones, escribir los siguientes mensajes de acuerdo al
+            carácter que se ingrese:
+            o Si se ingresa ‘c’, mostrar en consola “el personaje está disparando”
+            o Si se ingresa ‘x’, mostrar en consola “el personaje está hablando con la Rana”
+            o Si se ingresa ‘t’, mostrar en consola “el personaje está en modo Turbo”
+            o Si se presiona ‘i’, mostrar en consola “el personaje es Invencible” */
+
+            Random rnd = new Random();
+            int vidas = rnd.Next(0, 6);
+            char estado = ' ';
+
+            if (vidas > 0)
             {
-                case 'i':
-                    Console.WriteLine("El personaje se mueve hacia la izquierda");
-                    break;
-                case 'd':
-                    Console.WriteLine("El personaje se mueve hacia la derecha");
-                    break;
-                default:
-                    Console.WriteLine("No me puedo mover en otra dirección");
-                    break;
-            }
+                Console.WriteLine("El personaje puede realizar acciones.");
+                Console.WriteLine("Ingrese un carácter (c, x, t, i):");
+                estado = Convert.ToChar(Console.ReadLine());
 
+                switch (estado)
+                {
+                    case 'c':
+                        Console.WriteLine("El personaje está disparando");
+                        break;
+                    case 'x':
+                        Console.WriteLine("El personaje está hablando con la Rana");
+                        break;
+                    case 't':
+                        Console.WriteLine("El personaje está en modo Turbo");
+                        break;
+                    case 'i':
+                        Console.WriteLine("El personaje es Invencible");
+                        break;
+                }
+                    
+            }
+            else
+            {
+                Console.WriteLine("El personaje no posee vidas y no puede realizar acciones");
+            }
         }
     }
 }
