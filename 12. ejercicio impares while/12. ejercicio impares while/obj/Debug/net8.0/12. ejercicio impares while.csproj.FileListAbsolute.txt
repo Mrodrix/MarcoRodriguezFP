@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\12. ejercicio impares while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\12. ejercicio impares while.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\12. ejercicio impares while.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\12. ejercicio impares while.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\12. ejercicio impares while.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\bin\Debug\net8.0\12. ejercicio impares while.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\bin\Debug\net8.0\12. ejercicio impares while.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\bin\Debug\net8.0\12. ejercicio impares while.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\bin\Debug\net8.0\12. ejercicio impares while.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\bin\Debug\net8.0\12. ejercicio impares while.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\12. ejercicio impares while.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\refint\12. ejercicio impares while.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\12. ejercicio impares while.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\12. ejercicio impares while.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\12. ejercicio impares while\12. ejercicio impares while\obj\Debug\net8.0\ref\12. ejercicio impares while.dll

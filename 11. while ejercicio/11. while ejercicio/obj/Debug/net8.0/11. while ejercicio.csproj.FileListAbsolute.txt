@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\11. while ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\11. while ejercicio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\11. while ejercicio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\11. while ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\11. while ejercicio.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\bin\Debug\net8.0\11. while ejercicio.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\bin\Debug\net8.0\11. while ejercicio.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\bin\Debug\net8.0\11. while ejercicio.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\bin\Debug\net8.0\11. while ejercicio.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\bin\Debug\net8.0\11. while ejercicio.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\11. while ejercicio.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\refint\11. while ejercicio.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\11. while ejercicio.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\11. while ejercicio.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\11. while ejercicio\11. while ejercicio\obj\Debug\net8.0\ref\11. while ejercicio.dll
