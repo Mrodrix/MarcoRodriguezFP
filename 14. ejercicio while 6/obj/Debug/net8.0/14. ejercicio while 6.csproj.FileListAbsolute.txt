@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\bin\Debug\net8.0\14. ejercicio while 6.exe
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\bin\Debug\net8.0\14. ejercicio while 6.deps.json
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\bin\Debug\net8.0\14. ejercicio while 6.runtimeconfig.json
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\bin\Debug\net8.0\14. ejercicio while 6.dll
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\bin\Debug\net8.0\14. ejercicio while 6.pdb
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\14. ejercicio while 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\14. ejercicio while 6.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\14. ejercicio while 6.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\14. ejercicio while 6.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\14. ejercicio while 6.sourcelink.json
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\14. ejercicio while 6.dll
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\refint\14. ejercicio while 6.dll
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\14. ejercicio while 6.pdb
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\14. ejercicio while 6.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\MarcoRFP\MarcoRodriguezFP\MarcoRodriguezFP\14. ejercicio while 6\obj\Debug\net8.0\ref\14. ejercicio while 6.dll
