@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16. ejercicio while 8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96bfe94477e07fc955eee27153c01bb3913cb27c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ec203261afe0828115c94f72eb114f7442adcd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("16. ejercicio while 8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16. ejercicio while 8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
