@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\bin\Debug\net8.0\18. ejercicio Do while.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\bin\Debug\net8.0\18. ejercicio Do while.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\bin\Debug\net8.0\18. ejercicio Do while.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\bin\Debug\net8.0\18. ejercicio Do while.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\bin\Debug\net8.0\18. ejercicio Do while.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\18. ejercicio Do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\18. ejercicio Do while.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\18. ejercicio Do while.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\18. ejercicio Do while.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\18. ejercicio Do while.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\18. ejercicio Do while.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\refint\18. ejercicio Do while.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\18. ejercicio Do while.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\18. ejercicio Do while.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\18. ejercicio Do while\18. ejercicio Do while\obj\Debug\net8.0\ref\18. ejercicio Do while.dll
