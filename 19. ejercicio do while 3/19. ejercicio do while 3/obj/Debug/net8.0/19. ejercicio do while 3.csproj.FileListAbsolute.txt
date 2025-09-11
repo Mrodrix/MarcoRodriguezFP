@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\19. ejercicio do while 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\19. ejercicio do while 3.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\19. ejercicio do while 3.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\19. ejercicio do while 3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\19. ejercicio do while 3.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\bin\Debug\net8.0\19. ejercicio do while 3.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\bin\Debug\net8.0\19. ejercicio do while 3.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\bin\Debug\net8.0\19. ejercicio do while 3.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\bin\Debug\net8.0\19. ejercicio do while 3.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\bin\Debug\net8.0\19. ejercicio do while 3.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\19. ejercicio do while 3.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\refint\19. ejercicio do while 3.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\19. ejercicio do while 3.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\19. ejercicio do while 3.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\19. ejercicio do while 3\19. ejercicio do while 3\obj\Debug\net8.0\ref\19. ejercicio do while 3.dll
