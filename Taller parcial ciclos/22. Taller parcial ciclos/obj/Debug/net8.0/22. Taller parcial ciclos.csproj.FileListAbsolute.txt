@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\bin\Debug\net8.0\22. Taller parcial ciclos.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\bin\Debug\net8.0\22. Taller parcial ciclos.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\bin\Debug\net8.0\22. Taller parcial ciclos.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\bin\Debug\net8.0\22. Taller parcial ciclos.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\bin\Debug\net8.0\22. Taller parcial ciclos.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\22. Taller parcial ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\22. Taller parcial ciclos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\22. Taller parcial ciclos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\22. Taller parcial ciclos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\22. Taller parcial ciclos.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\22. Taller parcial ciclos.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\refint\22. Taller parcial ciclos.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\22. Taller parcial ciclos.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\22. Taller parcial ciclos.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\22. Taller parcial ciclos\22. Taller parcial ciclos\obj\Debug\net8.0\ref\22. Taller parcial ciclos.dll

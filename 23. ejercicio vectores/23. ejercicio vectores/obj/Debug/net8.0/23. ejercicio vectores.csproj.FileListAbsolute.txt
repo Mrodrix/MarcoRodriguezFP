@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\bin\Debug\net8.0\23. ejercicio vectores.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\bin\Debug\net8.0\23. ejercicio vectores.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\bin\Debug\net8.0\23. ejercicio vectores.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\bin\Debug\net8.0\23. ejercicio vectores.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\bin\Debug\net8.0\23. ejercicio vectores.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\23. ejercicio vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\23. ejercicio vectores.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\23. ejercicio vectores.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\23. ejercicio vectores.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\23. ejercicio vectores.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\23. ejercicio vectores.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\refint\23. ejercicio vectores.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\23. ejercicio vectores.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\23. ejercicio vectores.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\23. ejercicio vectores\23. ejercicio vectores\obj\Debug\net8.0\ref\23. ejercicio vectores.dll
