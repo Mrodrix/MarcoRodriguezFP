@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\bin\Debug\net8.0\Parcial Ciclos MarcoRodriguez.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\bin\Debug\net8.0\Parcial Ciclos MarcoRodriguez.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\bin\Debug\net8.0\Parcial Ciclos MarcoRodriguez.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\bin\Debug\net8.0\Parcial Ciclos MarcoRodriguez.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\bin\Debug\net8.0\Parcial Ciclos MarcoRodriguez.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\Parcial Ciclos MarcoRodriguez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\Parcial Ciclos MarcoRodriguez.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\Parcial Ciclos MarcoRodriguez.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\Parcial Ciclos MarcoRodriguez.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\Parcial Ciclos MarcoRodriguez.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\Parcial Ciclos MarcoRodriguez.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\refint\Parcial Ciclos MarcoRodriguez.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\Parcial Ciclos MarcoRodriguez.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\Parcial Ciclos MarcoRodriguez.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Parcial Ciclos MarcoRodriguez\Parcial Ciclos MarcoRodriguez\obj\Debug\net8.0\ref\Parcial Ciclos MarcoRodriguez.dll
