@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\bin\Debug\net8.0\taller vectores y arreglos.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\bin\Debug\net8.0\taller vectores y arreglos.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\bin\Debug\net8.0\taller vectores y arreglos.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\bin\Debug\net8.0\taller vectores y arreglos.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\bin\Debug\net8.0\taller vectores y arreglos.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\taller vectores y arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\taller vectores y arreglos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\taller vectores y arreglos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\taller vectores y arreglos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\taller vectores y arreglos.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\taller vectores y arreglos.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\refint\taller vectores y arreglos.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\taller vectores y arreglos.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\taller vectores y arreglos.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\taller vectores y arreglos\taller vectores y arreglos\obj\Debug\net8.0\ref\taller vectores y arreglos.dll
