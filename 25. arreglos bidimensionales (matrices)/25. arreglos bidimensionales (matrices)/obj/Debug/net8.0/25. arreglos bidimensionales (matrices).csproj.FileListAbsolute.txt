@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\bin\Debug\net8.0\25. arreglos bidimensionales (matrices).exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\bin\Debug\net8.0\25. arreglos bidimensionales (matrices).deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\bin\Debug\net8.0\25. arreglos bidimensionales (matrices).runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\bin\Debug\net8.0\25. arreglos bidimensionales (matrices).dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\bin\Debug\net8.0\25. arreglos bidimensionales (matrices).pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\25. arreglos bidimensionales (matrices).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\25. arreglos bidimensionales (matrices).AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\25. arreglos bidimensionales (matrices).AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\25. arreglos bidimensionales (matrices).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\25. arreglos bidimensionales (matrices).sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\25. arreglos bidimensionales (matrices).dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\refint\25. arreglos bidimensionales (matrices).dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\25. arreglos bidimensionales (matrices).pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\25. arreglos bidimensionales (matrices).genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\25. arreglos bidimensionales (matrices)\25. arreglos bidimensionales (matrices)\obj\Debug\net8.0\ref\25. arreglos bidimensionales (matrices).dll

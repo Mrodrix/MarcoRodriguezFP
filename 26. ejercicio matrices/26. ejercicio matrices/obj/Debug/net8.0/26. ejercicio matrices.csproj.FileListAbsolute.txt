@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\bin\Debug\net8.0\26. ejercicio matrices.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\bin\Debug\net8.0\26. ejercicio matrices.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\bin\Debug\net8.0\26. ejercicio matrices.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\bin\Debug\net8.0\26. ejercicio matrices.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\bin\Debug\net8.0\26. ejercicio matrices.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\26. ejercicio matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\26. ejercicio matrices.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\26. ejercicio matrices.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\26. ejercicio matrices.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\26. ejercicio matrices.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\26. ejercicio matrices.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\refint\26. ejercicio matrices.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\26. ejercicio matrices.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\26. ejercicio matrices.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\26. ejercicio matrices\26. ejercicio matrices\obj\Debug\net8.0\ref\26. ejercicio matrices.dll
