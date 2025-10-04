@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\bin\Debug\net8.0\28. Programacion modular.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\bin\Debug\net8.0\28. Programacion modular.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\bin\Debug\net8.0\28. Programacion modular.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\bin\Debug\net8.0\28. Programacion modular.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\bin\Debug\net8.0\28. Programacion modular.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\28. Programacion modular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\28. Programacion modular.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\28. Programacion modular.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\28. Programacion modular.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\28. Programacion modular.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\28. Programacion modular.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\refint\28. Programacion modular.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\28. Programacion modular.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\28. Programacion modular.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\28. Programacion modular\28. Programacion modular\obj\Debug\net8.0\ref\28. Programacion modular.dll
