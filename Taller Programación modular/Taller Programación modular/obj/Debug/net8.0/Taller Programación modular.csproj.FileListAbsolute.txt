@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\bin\Debug\net8.0\Taller Programación modular.exe
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\bin\Debug\net8.0\Taller Programación modular.deps.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\bin\Debug\net8.0\Taller Programación modular.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\bin\Debug\net8.0\Taller Programación modular.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\bin\Debug\net8.0\Taller Programación modular.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\Taller Programación modular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\Taller Programación modular.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\Taller Programación modular.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\Taller Programación modular.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\Taller Programación modular.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\Taller Programación modular.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\refint\Taller Programación modular.dll
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\Taller Programación modular.pdb
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\Taller Programación modular.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\MarcoFP\MarcoRodriguezFP\Taller Programación modular\Taller Programación modular\obj\Debug\net8.0\ref\Taller Programación modular.dll
